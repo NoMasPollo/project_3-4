@@ -1,0 +1,45 @@
+/* Body/Main */
+body{
+    font-family: 'Poppins';
+    background-color: rgba(6, 6, 26, 0.911);
+    color: antiquewhite;
+}
+/* Text */
+p{
+    color:blanchedalmond;
+}
+footer{
+    margin: auto;
+    font-style: italic;
+    float: left;
+}
+h4{
+    color: cornsilk;
+}
+/* Navs */
+nav ul {
+    line-height: 2em;
+    list-style-type:disc;
+    padding-left: 30px;
+}
+nav.horizontalNavigation li{
+    display: block;
+    float: left;
+    width: 25%;
+    background-color: rgb(131, 165, 131);
+    border:1px dotted black;
+}
+nav.horizontalNavigation a{
+    display: block;
+    text-align: center;
+    color: rgb(81, 33, 116);
+}
+/* Misc */
+a.list-group-item{
+    background-color: rgba(24, 24, 107, 0.911);
+    color: antiquewhite;
+}
+img{
+  width: 100%;
+  height: auto;
+}

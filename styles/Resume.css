@@ -1,0 +1,15 @@
+div#Portrait {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  img#portrait{
+    width: 80%;
+    height: auto;
+  }
+  h2#Text {
+    position: absolute;
+    bottom: 8px;
+    left: 10%;
+    color: rgb(5, 0, 32);
+}
